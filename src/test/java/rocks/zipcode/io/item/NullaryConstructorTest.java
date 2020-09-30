@@ -8,6 +8,7 @@ import rocks.zipcode.io.Item;
  * @author leon on 30/01/2019.
  */
 public class NullaryConstructorTest {
+
     @Test
     public void testNullaryConstructor() {
         // given
